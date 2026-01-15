@@ -9,3 +9,11 @@ git status
 git add README.md
 git push -u origin master
 ```
+
+## Rédiger un commit
+
+```
+Titre du commit
+
+Déscription du commit avec les infos sur l'evolution du projet
+```
