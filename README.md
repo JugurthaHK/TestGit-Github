@@ -27,3 +27,5 @@ git checkout -b nomBranche
 git checkout nomBranche
 git branch -b nomBranche
 ```
+
+Pour les bonnes pratiques, on va intégrer la notion de revue de code. Pour cela on va créer une branche, faire des modifications, les envoyer sur le depot distant, puis créer une pull request pour demander une revue de code.
