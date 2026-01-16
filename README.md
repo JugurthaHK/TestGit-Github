@@ -7,7 +7,7 @@ git init
 git remote add origin https://github.com/JugurthaHK/TestGit-Github.git
 git status
 git add README.md
-git commit -m "Commentaire 2"
+git commit -m "Commentaire 1"
 git push -u origin master
 ```
 
