@@ -17,3 +17,13 @@ Titre du commit
 
 Déscription du commit avec les infos sur l'evolution du projet
 ```
+
+## Tout ce qui à un rapport avec les branches
+
+```
+Ajouté par : Jugurtha | Branche : develop
+git branch
+git checkout -b nomBranche
+git checkout nomBranche
+git branch -b nomBranche
+```
